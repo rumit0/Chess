@@ -1,4 +1,5 @@
 ﻿using System;
+using Chess;
 
 namespace StartChess
 {
@@ -6,7 +7,16 @@ namespace StartChess
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Chess.Chess chess = new Chess.Chess();
+            while (true)
+            {
+                Console.WriteLine(chess.fen);
+                string move = Console.ReadLine();
+                if (move == "") break;
+                chess = chess.Move(move);
+
+            }
+            
         }
     }
 }
