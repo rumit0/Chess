@@ -1,0 +1,16 @@
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.csprojAssemblyReference.cache
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.AssemblyInfoInputs.cache
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.AssemblyInfo.cs
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.csproj.CoreCompileInputs.cache
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\StartChess.exe
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\StartChess.deps.json
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\StartChess.runtimeconfig.json
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\StartChess.runtimeconfig.dev.json
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\StartChess.dll
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\StartChess.pdb
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.csproj.CopyComplete
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.dll
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.pdb
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\StartChess\obj\Debug\netcoreapp3.1\StartChess.genruntimeconfig.cache

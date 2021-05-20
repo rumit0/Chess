@@ -19,5 +19,7 @@ namespace Chess
             if (color == Color.white) return Color.black;
             return Color.none;
         }
+
+
     }
 }

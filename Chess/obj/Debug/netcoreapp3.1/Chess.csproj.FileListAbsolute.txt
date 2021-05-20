@@ -1,0 +1,9 @@
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csprojAssemblyReference.cache
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfoInputs.cache
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.AssemblyInfo.cs
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.csproj.CoreCompileInputs.cache
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.deps.json
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.dll
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\bin\Debug\netcoreapp3.1\Chess.pdb
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.dll
+C:\Users\tn_kz\OneDrive\Pictures\Рабочий стол\chess\Chess\Chess\obj\Debug\netcoreapp3.1\Chess.pdb
