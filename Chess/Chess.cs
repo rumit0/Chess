@@ -21,7 +21,7 @@ namespace Chess
         {
             FigureMoving fm = new FigureMoving(move);
             Board nextBoard = board.Move(fm);
-            Chess nextChess = new Chess(board);
+            Chess nextChess = new Chess(nextBoard);
             return nextChess;
         }
 

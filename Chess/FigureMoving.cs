@@ -20,7 +20,7 @@ namespace Chess
 
         }
 
-        public FigureMoving(string move)
+        public FigureMoving(string move) //Ka1a2
         {
             this.figure = (Figure)move[0];
             this.from = new Square(move.Substring(1,2));

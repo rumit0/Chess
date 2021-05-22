@@ -7,6 +7,7 @@ namespace Chess
     class Board
     {
         public string fen { get; private set; }
+
         Figure[,] figures;
         public Color moveColor { get; private set; }
         public int moveNumber { get; private set;  }
@@ -14,7 +15,7 @@ namespace Chess
         public Board(string fen)
         {
             this.fen = fen;
-            figures = new Figure[8, 8];
+           figures = new Figure[8, 8];
             Init();
         }
 
@@ -22,6 +23,7 @@ namespace Chess
         {
             SetFigureAt(new Square("a1"), Figure.whiteKing);
             SetFigureAt(new Square("h8"),Figure.blackKing);
+            moveColor = Color.white;
         }
 
         public Figure GetFigureAt(Square square)

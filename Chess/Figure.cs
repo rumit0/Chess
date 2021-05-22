@@ -7,6 +7,8 @@ namespace Chess
     enum Figure
     {
         none,
+
+
         whiteKing = 'K',
         whiteQueen = 'Q',
         whiteRook = 'R',
