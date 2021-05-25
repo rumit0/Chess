@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Chess;
 
 namespace StartChess
@@ -7,14 +8,24 @@ namespace StartChess
     {
         static void Main(string[] args)
        {
+            Random random = new Random();
             Chess.Chess chess = new Chess.Chess();
+            List<string> list;
             while (true)
             {
+                list = chess.GetAllMoves();
                 Console.WriteLine(chess.fen);
                 Print(ChessToAscii(chess));
+                Console.WriteLine(chess.IsCheck() ? "CHECK" : "-");
+                foreach (string moves in list)
+                Console.Write(moves + "\t");
+                Console.WriteLine();
+                Console.Write("> ");
                 string move = Console.ReadLine();
-                if (move == "") break;
+                if (move == "q") break;
+                if (move == "") move = list[random.Next(list.Count)];
                 chess = chess.Move(move);
+                Console.Clear();
 
             }
            

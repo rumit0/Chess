@@ -23,4 +23,21 @@ namespace Chess
         blackKnight = 'n',
         blackPanw = 'p'
     }
+
+    static class FigureMethods
+    {
+        public static Color GetColor(this Figure figure)
+        {
+            if (figure == Figure.none)
+                return Color.none;
+            return (figure == Figure.whiteKing ||
+                    figure == Figure.whiteQueen ||
+                    figure == Figure.whiteRook ||
+                    figure == Figure.whiteBishop ||
+                    figure == Figure.whiteKnight ||
+                    figure == Figure.whitePanw) 
+                    ? Color.white
+                    : Color.black;
+        }
+    }
 }
